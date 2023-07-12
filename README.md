@@ -41,6 +41,6 @@ Update the .env.template with your keys and credentials and save as .env
 
 To install libraries run pip install -r requirements.txt
 
-To run the app, type: streamlit run main.py
+To run the apps, type either: streamlit run FinBotBasic.py, or streamlit run FinAgentBasic.py
 
 
